@@ -14,7 +14,7 @@ Our guide aims to show VT students the tools they have available to maximize the
     - Outlook website
 
     - "New" Outlook app (Windows and macOS)
-    
+
     - Mobile app (iOS and Android)
 
     However, these instructions will primarily focus on the Outlook website and desktop apps. The mobile apps will only be discussed if there are significant differences in the interfaces. 
@@ -139,7 +139,9 @@ A custom signature can be automatically applied to the end of outgoing messages.
 4. Navigate to Quick Settings section and tap the 'Signature' option.
 <img src="https://hackmd.io/_uploads/rJroomd0lg.jpg" alt="Screenshot of settings page of Outlook app with red underlining the Quick Settings Section and the Signature feature" width="300">
 5. A text box will appear for you to write your signature in. After you've written your signature, tap the check mark in the top right to save it.
-<img src="https://hackmd.io/_uploads/SyQ2jmdAex.jpg" alt="Screenshot of an example auto signature with a red circle over the checkmark confirm button" width="300">
+
+
+<img style="margin-left:30px;" src="https://hackmd.io/_uploads/SyQ2jmdAex.jpg" alt="Screenshot of an example auto signature with a red circle over the checkmark confirm button" width="300">
 
 
 ### Conditional Formatting
@@ -173,16 +175,20 @@ These steps will show you how to import a live calendar into Outlook from Canvas
 
 1. Log in to [Canvas](https://canvas.vt.edu "Virginia Tech Canvas website") using your university login. You may have to verify your login using Duo.
 2. In the left-hand navigation sidebar, click on 'Calendar.'
+
 ![Canvas sidebar](https://hackmd.io/_uploads/H1uhn1_kbe.png)
 
 3. On the calendar page, click 'Calendar Feed.''
+
 ![Calandar feed button location](https://hackmd.io/_uploads/HJbcnydJbx.png)
 
 4. A pop up will appear titled 'Calendar Feed.' Click on the 'Click to view Calendar Feed' link to download an ICS file of your calendar.
+
 ![Calendar Feed popup showing a link and a download button](https://hackmd.io/_uploads/Hyo82Ju1We.png)
 
 5. Open Outlook, and switch to the Calendar tab.
 6. Click the 'Add Calendar' button, then click the tab titled 'Upload from file' or 'Import ICS...' depending on device.
+
 ![Outlook calendar](https://hackmd.io/_uploads/Skh1p1dkWe.png)
 
 8. Click 'Browse,' then select the downloaded ICS file.
@@ -283,7 +289,8 @@ GobblerConnect is the student hub for a variety of organizations and events happ
 6. Click browse and find the .ics file you stored previously.
 7. Add it to one of your calendar colors if prompted.
 8. Now it should appear in your calendar.
-<img src="https://hackmd.io/_uploads/BJHjMHFAxe.png" alt="Screenshot of Outlook calendar with imported GobberConnect event" width="300">
+
+<img style="margin-left:30px" src="https://hackmd.io/_uploads/BJHjMHFAxe.png" alt="Screenshot of Outlook calendar with imported GobberConnect event" width="300">
 
 ### Microsoft Teams Interactions
 
@@ -310,6 +317,7 @@ The Outlook calendar allows you to create Microsoft Teams meetings directly with
 >If you still want to view the email after accepting the invitation, it can be viewed in the 'Deleted Items' section of your inbox.
 
 3. From your calendar, the event includes a way to join the meeting, meeting description, and time.
+
 ![Screenshot of the Teams meeting calendar event menu for the reciever where it shows information such as a join button and who invited you](https://hackmd.io/_uploads/BkcYuoCRgx.png)
 
 ## Outcomes
