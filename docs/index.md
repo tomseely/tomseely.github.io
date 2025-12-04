@@ -60,7 +60,9 @@ Outlook folders bring organization to your inbox, enabling you to have multiple 
 
 #### Creating Folders
 1. Navigate to mail, and click the three dots to the right of the email address.
+
 ![Screenshot of menu to create new folders](https://hackmd.io/_uploads/HkSQovS0lg.png)
+
 2. Click **Create new folder** and then name it.
 3. Now you have folders within Outlook.
 
@@ -73,7 +75,9 @@ Outlook folders bring organization to your inbox, enabling you to have multiple 
 
 1. Choose the desired folder to move the email into.
     * If the folder does not appear, type the name in the search box to find it.
+
     ![Screenshot of menu to move emails into folders](https://hackmd.io/_uploads/SyXc2DS0lg.png)
+
 2. Repeat these steps to move more emails into your folders.
 
 ### Auto Rules
@@ -83,18 +87,28 @@ Auto rules prevent inbox clutter by enforcing which folders certain emails are s
 #### Creating and Enforcing Rules
 
 1. Navigate to your Outlook inbox.
+
 ![Image displays a list of emails within the user's default inbox.](https://hackmd.io/_uploads/ByiN3vSReg.png)
+
 2. Right click on an email you want to create a rule for, and hover your cursor over **Rules**.
+
 ![After right clicking on an email, a list of options pop up, representing operations you can perform on the email. Within the image, the user is hovering over the rules option.](https://hackmd.io/_uploads/SyCinDHAgl.png)
+
 4. Select **Create rule** to bring up a pop-up.
+
 ![There is a dialog box titled "create rule" on the screen, prompting the user for the folder to direct emails to.](https://hackmd.io/_uploads/HyC46wrAgx.png)
+
 4. Click the **Select a folder** drop down. You should see the following options.
+
 ![Image shows the result of clicking the select folder drop down. Five options are present: inbox, deleted items, archive, create new folder, and move to a different folder. The user is hovering over create new folder option](https://hackmd.io/_uploads/r1ko6DBRlx.png)
+
 5. If you have already created a folder you want to move this type of email to, select **Move to a different folder**, choose the folder you want, and continue to step 7. Otherwise, select **Create new folder**.
 
 6. Enter a folder name within the **New folder name** text box. After you type the name, press **Save** or hit <kbd>Enter</kbd> on the keyboard.
+
 ![The image shows the result of clicking the create new folder option. You are now prompted to enter a new folder name.](https://hackmd.io/_uploads/rJ_tAwr0gx.png)
 7. With your folder selected, click '**OK** to create your rule.
+
 ![VT Promos is selected as the folder. 'VT Promos' folder was created by entering 'VT Promos' as the new folder name in step 6](https://hackmd.io/_uploads/rJ1XyOHAxe.png)
 8. If you want to apply the rule you just created to relevant emails currently in your inbox, select the 'Run this rule now in Inbox' check box, then click 'OK.' Otherwise, click outside of the window to make it disappear.
 
@@ -112,11 +126,13 @@ A custom signature can be automatically applied to the end of outgoing messages.
 #### Desktop
 1. Click the settings icon at the top right of the screen, next to your account icon.
 2. Choose the Account tab, then click Signatures:
+
 ![Image showing the account tab within Outlook's settings, with the Signatures option highlighted](https://hackmd.io/_uploads/SyzMhqAAle.png)
 
 3. Give a name to the signature you will be creating. 
 4. In the text box, create your custom signature using the options available. 
 5. After the signature is finalized, click Save to add it to your signature list.
+
 ![Screenshot of the signature menu](https://hackmd.io/_uploads/Hknuac0Axg.png)
 
 6. Scroll down to the 'Select default signatures' section.
@@ -152,10 +168,13 @@ Conditional Formatting allows the user to create rules to personalize colors of 
 Scheduling emails to be sent at a later time or date is useful for Virginia Tech students. For example, sending an email late at night to a professor can be scheduled for a more suitable, professional time.
 
 1. Click 'New mail' to generate a new email draft.
+
 ![Screenshot of Outlook with a focus on the New Mail button in the top right to draft an email](https://hackmd.io/_uploads/HkXjRwSAlg.png)
+
 2. Write your email's contents
 3. Click the downwards caret symbol dropdown to the right of the Send button.
 4. Click 'Schedule send' then select 'Custom Time' to pick a desired date and time for the email to be sent.
+
 ![Screenshot of the scheduling menu for an email, there is an interactable calendar on the left and a dropdown on the right for date and time](https://hackmd.io/_uploads/SJ6WxSYRel.png)
 
 
@@ -192,6 +211,7 @@ These steps will show you how to import a live calendar into Outlook from Canvas
 ![Outlook calendar](https://hackmd.io/_uploads/Skh1p1dkWe.png)
 
 8. Click 'Browse,' then select the downloaded ICS file.
+
 ![Upload calendar from file](https://hackmd.io/_uploads/SJiGpJuk-x.png)
 
 10. Click 'Import' to finish. Now your assignments should appear in your Outlook calendar.
@@ -284,7 +304,9 @@ GobblerConnect is the student hub for a variety of organizations and events happ
 
 1. Find the GobblerConnect event you want to be in your Outlook calendar.
 2. Click the 'iCal/Outlook' link below the Date and Time tab of the event.
+
 ![Screenshot of a GobblerConnect event showing the title, Date and Time, and Location. It shows the link to download the ICS file right in the center of the image.](https://hackmd.io/_uploads/rJFT-HFRxg.png)
+
 3. Save the resulting .ics file into a location you remember such as Downloads or Documents.
 4. Go to Outlook and to the Calendar tab.
 5. Click the 'Add Calendar' button below the mini-calendar on the left, then 'Upload from file.'
@@ -302,17 +324,25 @@ The Outlook calendar allows you to create Microsoft Teams meetings directly with
 
 1. Navigate to your Outlook Calendar.
 2. Click 'New event' in the top left.
+
 ![Screenshot of Outlook with emphasis on New event button](https://hackmd.io/_uploads/ryQVLsR0gl.png)
+
 3. Fill in event details such as attendees, make sure to enable the 'Teams meeting' switch.
+
 ![Screenshot of the event creation menu with a placeholder title and the Teams meeting option enabled](https://hackmd.io/_uploads/ByoZ8sR0ee.png)
+
 4. Click Send in the top right when finished.
 5. Now your meeting should appear in calendar.
+
 ![Screenshot of the Teams meeting calendar event menu where it shows information such as a join button and event description](https://hackmd.io/_uploads/BJDLDj0Ree.png)
+
 6. You can join the meeting directly through the calendar, and view event details from here.
 
 #### Adding Invitations to Calendar
 1. When receiving a Teams invite from someone else you should receive an email of it.
+
 ![Screenshot of an email a user would get when recieving a Teams meeting invitation, showing a menu at the top for accepting the meeting to be put in the calendar and email body itself](https://hackmd.io/_uploads/r1UhIjAAex.png)
+
 2. At the top of the email is the option to accept the invitation. Clicking accept adds the meeting to your calendar, **and deletes the invitation email from your inbox.**
 
 !!! tip
