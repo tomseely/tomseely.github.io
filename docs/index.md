@@ -10,8 +10,11 @@ Our guide aims to show VT students the tools they have available to maximize the
 !!! note
 
     Note: This guide is made with the following Outlook cinterfaces in mind:
+
     - Outlook website
+
     - "New" Outlook app (Windows and macOS)
+    
     - Mobile app (iOS and Android)
 
     However, these instructions will primarily focus on the Outlook website and desktop apps. The mobile apps will only be discussed if there are significant differences in the interfaces. 
