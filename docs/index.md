@@ -306,8 +306,9 @@ The Outlook calendar allows you to create Microsoft Teams meetings directly with
 ![Screenshot of an email a user would get when recieving a Teams meeting invitation, showing a menu at the top for accepting the meeting to be put in the calendar and email body itself](https://hackmd.io/_uploads/r1UhIjAAex.png)
 2. At the top of the email is the option to accept the invitation. Clicking accept adds the meeting to your calendar, **and deletes the invitation email from your inbox.**
 
->[!Tip]
->If you still want to view the email after accepting the invitation, it can be viewed in the 'Deleted Items' section of your inbox.
+!!! tip
+
+    If you still want to view the email after accepting the invitation, it can be viewed in the 'Deleted Items' section of your inbox.
 
 3. From your calendar, the event includes a way to join the meeting, meeting description, and time.
 ![Screenshot of the Teams meeting calendar event menu for the reciever where it shows information such as a join button and who invited you](https://hackmd.io/_uploads/BkcYuoCRgx.png)
