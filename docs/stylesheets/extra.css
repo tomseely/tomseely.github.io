@@ -1,0 +1,5 @@
+    :root {
+      --md-primary-fg-color: #861F41; /* Custom primary foreground color */
+      --md-accent-fg-color: #E5751F; /* Custom accent foreground color */
+      /* ... other CSS variables you want to change */
+    }
