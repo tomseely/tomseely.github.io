@@ -9,7 +9,7 @@ Our guide aims to show VT students the tools they have available to maximize the
 
 !!! note
 
-    Note: This guide is made with the following Outlook cinterfaces in mind:
+    This guide is made with the following Outlook cinterfaces in mind:
 
     - Outlook website
 
@@ -107,7 +107,7 @@ Auto rules prevent inbox clutter by enforcing which folders certain emails are s
 6. Enter a folder name within the **New folder name** text box. After you type the name, press **Save** or hit <kbd>Enter</kbd> on the keyboard.
 
 ![The image shows the result of clicking the create new folder option. You are now prompted to enter a new folder name.](https://hackmd.io/_uploads/rJ_tAwr0gx.png)
-7. With your folder selected, click '**OK** to create your rule.
+7. With your folder selected, click **OK** to create your rule.
 
 ![VT Promos is selected as the folder. 'VT Promos' folder was created by entering 'VT Promos' as the new folder name in step 6](https://hackmd.io/_uploads/rJ1XyOHAxe.png)
 8. If you want to apply the rule you just created to relevant emails currently in your inbox, select the 'Run this rule now in Inbox' check box, then click 'OK.' Otherwise, click outside of the window to make it disappear.
@@ -123,38 +123,38 @@ Auto rules prevent inbox clutter by enforcing which folders certain emails are s
 
 A custom signature can be automatically applied to the end of outgoing messages. Signatures must be set up on desktop and in the mobile app separartely. 
 
-#### Desktop
+#### On Desktop
 1. Click the settings icon at the top right of the screen, next to your account icon.
-2. Choose the Account tab, then click Signatures:
+2. Choose the **Account** tab, then click **Signatures**:
 
 ![Image showing the account tab within Outlook's settings, with the Signatures option highlighted](https://hackmd.io/_uploads/SyzMhqAAle.png)
 
 3. Give a name to the signature you will be creating. 
 4. In the text box, create your custom signature using the options available. 
-5. After the signature is finalized, click Save to add it to your signature list.
+5. After the signature is finalized, click **Save** to add it to your signature list.
 
 ![Screenshot of the signature menu](https://hackmd.io/_uploads/Hknuac0Axg.png)
 
-6. Scroll down to the 'Select default signatures' section.
+6. Scroll down to the **Select default signatures** section.
 7. Click the dropdown next to whichever type of email you want your signature to be automatically applied to:
-    * 'For new messages' will apply the signature to the end of all new emails you write.
-    *  'For Replies/Forwards' will apply the signature to your replies and forwarded emails.
+    * "For new messages" will apply the signature to the end of all new emails you write.
+    * "For Replies/Forwards" will apply the signature to your replies and forwarded emails.
 
 8. Choose a signature to assign to each type of message. A single signature can be applied to all types, or multiple can be created and assigned separately. You can also choose not to apply any signature.
 
 ![Screenshot of the menu to select default signatures](https://hackmd.io/_uploads/Byiu0q00ll.png)
 
-9. Click 'Save' to finalize your changes.
+9. Click **Save** to finalize your changes.
 
-#### Mobile App
+#### On the Mobile App
 1. Open the app.
 3. Tap the text in the top left of the screen, next to your profile picture. If you're using the app on an Android device, you'll need to tap the profile picture itself instead.
 <img src="https://hackmd.io/_uploads/ryz_9mORgg.jpg" alt="Screenshot of Outlook app with red circle over the Inbox text in the top right" width="300">
 3. Tap the settings icon in the bottom left to bring up the settings page.
 <img src="https://hackmd.io/_uploads/r1wt5muAel.jpg" alt="Screenshot of Outlook app with red circle over settings button in the bottom left" width="300">
-4. Navigate to Quick Settings section and tap the 'Signature' option.
+4. Navigate to Quick Settings section and tap the **Signature** option.
 <img src="https://hackmd.io/_uploads/rJroomd0lg.jpg" alt="Screenshot of settings page of Outlook app with red underlining the Quick Settings Section and the Signature feature" width="300">
-5. A text box will appear for you to write your signature in. After you've written your signature, tap the check mark in the top right to save it.
+5. A text box will appear for you to write your signature in. After you've finished writing, click the check mark in the top right to save it.
 
 
 <img style="margin-left:30px;" src="https://hackmd.io/_uploads/SyQ2jmdAex.jpg" alt="Screenshot of an example auto signature with a red circle over the checkmark confirm button" width="300">
@@ -167,13 +167,13 @@ Conditional Formatting allows the user to create rules to personalize colors of 
 
 Scheduling emails to be sent at a later time or date is useful for Virginia Tech students. For example, sending an email late at night to a professor can be scheduled for a more suitable, professional time.
 
-1. Click 'New mail' to generate a new email draft.
+1. Click **New mail** to generate a new email draft.
 
 ![Screenshot of Outlook with a focus on the New Mail button in the top right to draft an email](https://hackmd.io/_uploads/HkXjRwSAlg.png)
 
 2. Write your email's contents
 3. Click the downwards caret symbol dropdown to the right of the Send button.
-4. Click 'Schedule send' then select 'Custom Time' to pick a desired date and time for the email to be sent.
+4. Click **Schedule send** then select **Custom Time** to pick a desired date and time for the email to be sent.
 
 ![Screenshot of the scheduling menu for an email, there is an interactable calendar on the left and a dropdown on the right for date and time](https://hackmd.io/_uploads/SJ6WxSYRel.png)
 
@@ -193,28 +193,28 @@ These settings can help unify all of your digital events into one centralized lo
 These steps will show you how to import a live calendar into Outlook from Canvas. You only have to do this once, and new assignments will continue to appear until you remove the calendar.
 
 1. Log in to [Canvas](https://canvas.vt.edu "Virginia Tech Canvas website") using your university login. You may have to verify your login using Duo.
-2. In the left-hand navigation sidebar, click on 'Calendar.'
+2. In the left-hand navigation sidebar, click on **Calendar**.
 
 ![Canvas sidebar](https://hackmd.io/_uploads/H1uhn1_kbe.png)
 
-3. On the calendar page, click 'Calendar Feed.''
+3. On the calendar page, click **Calendar Feed**.
 
 ![Calandar feed button location](https://hackmd.io/_uploads/HJbcnydJbx.png)
 
-4. A pop up will appear titled 'Calendar Feed.' Click on the 'Click to view Calendar Feed' link to download an ICS file of your calendar.
+4. A pop up will appear titled **Calendar Feed**. Click on the **Click to view Calendar Feed** link to download an ICS file of your calendar.
 
 ![Calendar Feed popup showing a link and a download button](https://hackmd.io/_uploads/Hyo82Ju1We.png)
 
 5. Open Outlook, and switch to the Calendar tab.
-6. Click the 'Add Calendar' button, then click the tab titled 'Upload from file' or 'Import ICS...' depending on device.
+6. Click the **Add Calendar** button, then click the tab titled **Upload from file** or **Import ICS...**, depending on the device you're using.
 
 ![Outlook calendar](https://hackmd.io/_uploads/Skh1p1dkWe.png)
 
-8. Click 'Browse,' then select the downloaded ICS file.
+8. Click **Browse**, then select the downloaded ICS file.
 
 ![Upload calendar from file](https://hackmd.io/_uploads/SJiGpJuk-x.png)
 
-10. Click 'Import' to finish. Now your assignments should appear in your Outlook calendar.
+10. Click **Import** to finish. Now your assignments should appear in your Outlook calendar.
 
 ### Importing Class Schedule
 
@@ -249,14 +249,14 @@ These steps will show you how to import a live calendar into Outlook from Canvas
     <br>
     <img src="https://hackmd.io/_uploads/SkxPNSZy-x.png" alt="Screenshot of Outlook with a blue arrow pointing at the calendar tab button"></img>
     <br><br>
-    6. Click the 'Add Calendar' button, then click the tab titled 'Upload from file' or 'Import ICS...' depending on your device.
+    6. Click the <strong>Add Calendar</strong> button, then click the tab titled <strong>Upload from file</strong> or <strong>Import ICS...</strong> depending on your device.
     <br>
     <img src="https://hackmd.io/_uploads/Sy7MBr-yWx.png" alt="Screenshot of the menu that appears after clicking 'Add Calendar', showing the two options 'Add Shared Calendar' and 'Import ICS'"></img>
     <br><br>
-    7. Click 'Browse', then select the downloaded .ics file.
+    7. Click <strong>Browse</strong>, then select the downloaded .ics file.
     <img src="https://hackmd.io/_uploads/S1jeYHb1We.png" alt="Screenshot of the 'Upload from file' menu with the schedule.ics file inputted"></img>
     <br><br>
-    8. Click 'Import' to finish. 
+    8. Click <strong>Import</strong> to finish. 
 
 !!! note
 
@@ -266,7 +266,7 @@ These steps will show you how to import a live calendar into Outlook from Canvas
 <br>
 <details>
 <summary><strong>Option 2:</strong> Manually creating recurring events</summary>
-    This process will outline how to create a recurring outlook event representing your 'class.'
+    This process will outline how to create a recurring outlook event representing one of your classes.
     <br><br>
     1. Have your schedule open and viewable to see its attributes, an example would be viewing your Classic Student Schedule within HokieSPA.
     <br>
@@ -274,7 +274,7 @@ These steps will show you how to import a live calendar into Outlook from Canvas
     <br>
     2. Open Outlook and navigate to the Calendar tab.
     <br>
-    3. Click 'New event' in the top right.
+    3. Click <strong>New event</strong> in the top right.
     <br>
     4. Fill out necessary information for your class.
     <br>
@@ -293,7 +293,7 @@ These steps will show you how to import a live calendar into Outlook from Canvas
     <img src="https://hackmd.io/_uploads/Sk4-vyOk-g.png" alt="Screenshot of completed calendar event for a class, with title, event date, event time, repeating events, location, and reminder filled out and outlined."></img>
     5. Click save to complete the process, and now you should see the event in your calendar.
     <br>
-    6. In the event you have a class cancelled or the class appears during a holiday, you can delete a particular event by right clicking the event, clicking 'Delete', and 'This Event'.
+    6. In the event you have a class cancelled or the class appears during a holiday, you can delete a particular event by right clicking the event, clicking <strong>Delete</strong>, and <strong>This Event</strong>.
     <img src="https://hackmd.io/_uploads/ryLo5HZ1Wl.png" alt="Screenshot of event details with empahsis on the option to delete the particular event"></img>
 </details>
 <br>
@@ -303,13 +303,13 @@ These steps will show you how to import a live calendar into Outlook from Canvas
 GobblerConnect is the student hub for a variety of organizations and events happening on campus. It is equally as important to track when and where these events are all in one place, especially if there are conflicts. This can be resolved through importing these events into Outlook.
 
 1. Find the GobblerConnect event you want to be in your Outlook calendar.
-2. Click the 'iCal/Outlook' link below the Date and Time tab of the event.
+2. Click the **iCal/Outlook** link below the Date and Time tab of the event.
 
 ![Screenshot of a GobblerConnect event showing the title, Date and Time, and Location. It shows the link to download the ICS file right in the center of the image.](https://hackmd.io/_uploads/rJFT-HFRxg.png)
 
 3. Save the resulting .ics file into a location you remember such as Downloads or Documents.
 4. Go to Outlook and to the Calendar tab.
-5. Click the 'Add Calendar' button below the mini-calendar on the left, then 'Upload from file.'
+5. Click the **Add Calendar** button below the mini-calendar on the left, then **Upload from file**.
 6. Click browse and find the .ics file you stored previously.
 7. Add it to one of your calendar colors if prompted.
 8. Now it should appear in your calendar.
@@ -323,11 +323,11 @@ The Outlook calendar allows you to create Microsoft Teams meetings directly with
 #### Creating Meetings From Calendar
 
 1. Navigate to your Outlook Calendar.
-2. Click 'New event' in the top left.
+2. Click **New event** in the top left.
 
 ![Screenshot of Outlook with emphasis on New event button](https://hackmd.io/_uploads/ryQVLsR0gl.png)
 
-3. Fill in event details such as attendees, make sure to enable the 'Teams meeting' switch.
+3. Fill in event details such as attendees, make sure to enable the **Teams meeting** switch.
 
 ![Screenshot of the event creation menu with a placeholder title and the Teams meeting option enabled](https://hackmd.io/_uploads/ByoZ8sR0ee.png)
 
@@ -343,11 +343,11 @@ The Outlook calendar allows you to create Microsoft Teams meetings directly with
 
 ![Screenshot of an email a user would get when recieving a Teams meeting invitation, showing a menu at the top for accepting the meeting to be put in the calendar and email body itself](https://hackmd.io/_uploads/r1UhIjAAex.png)
 
-2. At the top of the email is the option to accept the invitation. Clicking accept adds the meeting to your calendar, **and deletes the invitation email from your inbox.**
+2. At the top of the email is the option to accept the invitation. Clicking accept adds the meeting to your calendar, *and deletes the invitation email from your inbox.*
 
 !!! tip
 
-    If you still want to view the email after accepting the invitation, it can be viewed in the 'Deleted Items' section of your inbox.
+    If you still want to view the email after accepting the invitation, it can be viewed in the **Deleted Items** section of your inbox.
 
 3. From your calendar, the event includes a way to join the meeting, meeting description, and time.
 
