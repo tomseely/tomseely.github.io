@@ -20,7 +20,6 @@ Our guide aims to show VT students the tools they have available to maximize the
     However, these instructions will primarily focus on the Outlook website and desktop apps. The mobile apps will only be discussed if there are significant differences in the interfaces. 
 
 
-
 ## Table of Contents
 
 - [Microsoft Outlook for Virginia Tech Students](#microsoft-outlook-for-virginia-tech-students)
@@ -110,12 +109,12 @@ Auto rules prevent inbox clutter by enforcing which folders certain emails are s
 7. With your folder selected, click **OK** to create your rule.
 
 ![VT Promos is selected as the folder. 'VT Promos' folder was created by entering 'VT Promos' as the new folder name in step 6](https://hackmd.io/_uploads/rJ1XyOHAxe.png)
-8. If you want to apply the rule you just created to relevant emails currently in your inbox, select the 'Run this rule now in Inbox' check box, then click 'OK.' Otherwise, click outside of the window to make it disappear.
+8. If you want to apply the rule you just created to relevant emails currently in your inbox, select the **Run this rule now in Inbox** check box, then click **OK**. Otherwise, click outside of the window to make it disappear.
 
 
 !!! note
 
-    When a rule is running, you may notice your inbox changing in realtime. This is normal. All applicable emails are moved to the folder allocated for a certain rule.
+    When a rule is running, you may notice your inbox changing in real time. This is normal. All applicable emails are moved to the folder allocated for a certain rule.
 
 ![Image shows a success screen with an option to run the rule within the current inbox.](https://hackmd.io/_uploads/ry2FTNZy-g.png)
 
@@ -258,10 +257,6 @@ These steps will show you how to import a live calendar into Outlook from Canvas
     <br><br>
     8. Click <strong>Import</strong> to finish. 
 
-!!! note
-
-    This does not automatically remove classes during holidays, breaks, or finals week. You should verify these events yourself.
-
 </details>
 <br>
 <details>
@@ -297,6 +292,11 @@ These steps will show you how to import a live calendar into Outlook from Canvas
     <img src="https://hackmd.io/_uploads/ryLo5HZ1Wl.png" alt="Screenshot of event details with empahsis on the option to delete the particular event"></img>
 </details>
 <br>
+
+
+!!! note
+
+    These methods do not automatically remove classes during holidays, breaks, or finals week. You should verify these events yourself.
 
 ### Importing GobblerConnect Events
 
