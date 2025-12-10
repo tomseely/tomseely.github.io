@@ -383,4 +383,5 @@ Now, you understand how to optimize your Outlook. We covered features in both th
 
 ## See also
 For more Outlook training by Microsoft, visit their [Outlook training webpage](https://support.microsoft.com/en-us/office/outlook-training-8a5b816d-9052-4190-a5eb-494512343cca "Outlook training by Microsoft Support")
+
 For more features about the Outlook calendar, visit their [Introduction to the Outlook Calendar webpage](https://support.microsoft.com/en-us/office/introduction-to-the-outlook-calendar-d94c5203-77c7-48ec-90a5-2e2bc10bd6f8 "Introduction to the Outlook Calendar by Microsoft Support")
