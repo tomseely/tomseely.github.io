@@ -3,7 +3,8 @@
 <small>By Shrayus Masanam, Thomas Seely, Harman Singh, Anthony Taveras</small>
 
 Outlook is part of the Microsoft Office Suite, which has been adopted by Virginia Tech. Consequently, Outlook has become an integral application for Virginia Tech students. It provides a platform to recieve the many emails students get such as Canvas updates, academic advisor newsletters, as well as providing a central calendar to keep track of events.
-However, some of its features are not obvious, nor enabled by default, leading to a loss in potential productivity. For example, it is beneficial to have emails automatically sorted into folders, or have your schedule fleshed out into your calendar.
+
+However, some of Outlook's features are not obvious, nor enabled by default, leading to a loss in potential productivity. For example, many users don't know that you can set up the software to automatically sort your emails into folders, or have your schedule automatically imported into your calendar.
 Our guide aims to show VT students the tools they have available to maximize their productivity within Outlook.
 
 
@@ -31,8 +32,8 @@ Our guide aims to show VT students the tools they have available to maximize the
     - [Auto Rules](#auto-rules)
       - [Creating and Enforcing Rules](#creating-and-enforcing-rules)
     - [Auto Signature](#auto-signature)
-      - [Desktop](#desktop)
-      - [Mobile App](#mobile-app)
+      - [Desktop](#on-desktop)
+      - [Mobile App](#on-the-mobile-app)
     - [Conditional Formatting](#conditional-formatting)
     - [Scheduling Emails](#scheduling-emails)
   - [Calendar Options](#calendar-options)
@@ -200,7 +201,7 @@ These steps will show you how to import a live calendar into Outlook from Canvas
 
 ![Calandar feed button location](https://hackmd.io/_uploads/HJbcnydJbx.png)
 
-4. A pop up will appear titled **Calendar Feed**. Click on the **Click to view Calendar Feed** link to download an ICS file of your calendar.
+4. A popup window will appear titled **Calendar Feed**. Click on the **Click to view Calendar Feed** link to download an ICS file of your calendar.
 
 ![Calendar Feed popup showing a link and a download button](https://hackmd.io/_uploads/Hyo82Ju1We.png)
 
@@ -300,7 +301,7 @@ These steps will show you how to import a live calendar into Outlook from Canvas
 
 ### Importing GobblerConnect Events
 
-GobblerConnect is the student hub for a variety of organizations and events happening on campus. It is equally as important to track when and where these events are all in one place, especially if there are conflicts. This can be resolved through importing these events into Outlook.
+GobblerConnect is the student hub for a variety of organizations and events happening on campus. Being able to track when and where these events take place all in one place is very beneficial to event managers and attendees alike, especially if different events have conflicting times. Importing events into Outlook makes managing scheduling issues a lot easier and less error-prone.
 
 1. Find the GobblerConnect event you want to be in your Outlook calendar.
 2. Click the **iCal/Outlook** link below the Date and Time tab of the event.
