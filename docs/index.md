@@ -2,7 +2,7 @@
 
 <small>By Shrayus Masanam, Thomas Seely, Harman Singh, Anthony Taveras</small>
 
-Outlook is part of the Microsoft Office Suite, which has been adopted by Virginia Tech. Consequently, Outlook has become an integral application for Virginia Tech students. It provides a platform to recieve the many emails students get such as Canvas updates, academic advisor newsletters, as well as providing a central calendar to keep track of events.
+Outlook is part of the Microsoft Office Suite, which has been adopted by Virginia Tech. Consequently, Outlook has become an integral application for Virginia Tech students. It provides a platform to receive the many emails students get such as Canvas updates, academic advisor newsletters, as well as providing a central calendar to keep track of events.
 
 However, some of Outlook's features are not obvious, nor enabled by default, leading to a loss in potential productivity. For example, many users don't know that you can set up the software to automatically sort your emails into folders, or have your schedule automatically imported into your calendar.
 Our guide aims to show VT students the tools they have available to maximize their productivity within Outlook.
@@ -32,8 +32,8 @@ Our guide aims to show VT students the tools they have available to maximize the
     - [Auto Rules](#auto-rules)
       - [Creating and Enforcing Rules](#creating-and-enforcing-rules)
     - [Auto Signature](#auto-signature)
-      - [Desktop](#on-desktop)
-      - [Mobile App](#on-the-mobile-app)
+      - [On Desktop](#on-desktop)
+      - [On the Mobile App](#on-the-mobile-app)
     - [Conditional Formatting](#conditional-formatting)
     - [Scheduling Emails](#scheduling-emails)
   - [Calendar Options](#calendar-options)
@@ -52,11 +52,11 @@ Our guide aims to show VT students the tools they have available to maximize the
 These settings change the look and feel of your Outlook inbox, and can help you save time on automatable tasks, improving workflow.
 !!! note
 
-    Some options may be separate depending on whether you are on PC or Mobile; thus, it is important to check settings for both for consistency across devices
+    Some options may be locally saved to the device rather than save to the account; thus, it is important to check settings across devices for consistency.
 
 ### Folders
 
-Outlook folders bring organization to your inbox, enabling you to have multiple folders in your email outside of the traditional Drafts, Junk, Sent, etc. Sorting emails into these folders can help reducing clutter in your main inbox.
+Outlook folders bring organization to your inbox, enabling you to have multiple folders in your email outside of the traditional Drafts, Junk, Sent, etc. Sorting emails into these folders can help reduce clutter in your main inbox.
 
 #### Creating Folders
 1. Navigate to mail, and click the three dots to the right of the email address.
@@ -71,7 +71,7 @@ Outlook folders bring organization to your inbox, enabling you to have multiple 
 2. Right click the email to bring up the action menu and select **Move**.
 !!! tip
 
-    Select multiple messages at once to move emails in bulk quanitities
+    Select multiple messages at once to move emails in bulk quantities
 
 1. Choose the desired folder to move the email into.
     * If the folder does not appear, type the name in the search box to find it.
@@ -82,7 +82,7 @@ Outlook folders bring organization to your inbox, enabling you to have multiple 
 
 ### Auto Rules
 
-Auto rules prevent inbox clutter by enforcing which folders certain emails are sorted into. For example, you may want Canvas notifications to arrive in you main inbox, and less important emails, from senders like Grubhub or VT Bookstore, to be moved to different folders. Let's walk through an example.
+Auto rules prevent inbox clutter by enforcing which folders certain emails are sorted into. For example, you may want Canvas notifications to arrive in your main inbox, and less important emails, from senders like Grubhub or VT Bookstore, to be moved to different folders. Let's walk through an example.
 
 #### Creating and Enforcing Rules
 
@@ -121,7 +121,7 @@ Auto rules prevent inbox clutter by enforcing which folders certain emails are s
 
 ### Auto Signature
 
-A custom signature can be automatically applied to the end of outgoing messages. Signatures must be set up on desktop and in the mobile app separartely. 
+You can create a custom signature, such as with a closing, name, and contact info, that automatically appears at the end of each email you write. Signatures must be set up on desktop and in the mobile app separartely. 
 
 #### On Desktop
 1. Click the settings icon at the top right of the screen, next to your account icon.
@@ -129,7 +129,8 @@ A custom signature can be automatically applied to the end of outgoing messages.
 
 ![Image showing the account tab within Outlook's settings, with the Signatures option highlighted](https://hackmd.io/_uploads/SyzMhqAAle.png)
 
-3. Give a name to the signature you will be creating. 
+3. Give a name to the signature you will be creating.
+   - For example, a work signature or a school signature.
 4. In the text box, create your custom signature using the options available. 
 5. After the signature is finalized, click **Save** to add it to your signature list.
 
@@ -161,11 +162,34 @@ A custom signature can be automatically applied to the end of outgoing messages.
 
 
 ### Conditional Formatting
-Conditional Formatting allows the user to create rules to personalize colors of incoming messages. This can be particularly useful for a different way of hightlighting certain emails outside of pinning or flagging them, and it allows you to quickly and automatically identify certain email types from a variety of rules outlined in this section.
+Conditional Formatting allows the user to create rules to personalize colors of incoming messages. This can be particularly useful for a different way of highlighting certain emails outside of pinning or flagging them, and it allows you to quickly and automatically identify certain email types from a variety of rules outlined in this section.
+
+
+To create conditional formatting rules:
+
+![Screenshot of Outlook settings page with emphasis on the Settings text, the Mail tab, the Conditional formatting tab, and the Add rule button](image.png)
+
+1. Go to Outlook settings.
+2. Click Mail > Conditional formatting > Add rule in the top right.
+3. Name the rule.
+    * For example, what do you plan the rule to do?
+4. Select the condition.
+    * More common conditions are who the email is from or the contents of the subject line.
+    * These are the list of all conditions, the red ones are headers and are unselectable, and multiple can be chosen at the same time:  
+  <img src="image-2.png" alt="Screenshot of list of conditions. From top to bottom it reads People: From. My name is: I'm on the To or Cc line, I'm on the To line, I'm not on the To line, I'm on the Cc line. Subject: Subject includes. People: Sender address includes." width="150"/>
+1. Choose a font color and click Save to finish, now your emails will have some color variety to them.
+    * These are the available colors:  
+  <img src="image-3.png" alt="Screenshot of available colors to choose from for the conditional formatting. Includes shades of pink, red, orange, yellow, green, blue, purple, gray." width="250"/>
+
+An example of it in action looks like this:
+
+![Screenshot of an email with the conditional formatting applied, changing the color of the subject line and the date to be yellow](image-1.png)
+
+
 
 ### Scheduling Emails
 
-Scheduling emails to be sent at a later time or date is useful for Virginia Tech students. For example, sending an email late at night to a professor can be scheduled for a more suitable, professional time.
+Scheduling emails to be sent at a later time or date is useful for Virginia Tech students. For example, instead of sending an email late at night to a professor, you can instruct Outlook to send the email at a more suitable, professional time.
 
 1. Click **New mail** to generate a new email draft.
 
@@ -319,7 +343,7 @@ GobblerConnect is the student hub for a variety of organizations and events happ
 
 ### Microsoft Teams Interactions
 
-The Outlook calendar allows you to create Microsoft Teams meetings directly without having to open the app itself. When creating or recieving invitations to Teams meetings, you can add them directly to your calendar. A VT student will find themselves attending numerous meetings throughout their academic career. Students may have to join or create meetings with other students for projects, advisor meetings, job interviews, and so on. Therefore, knowing how to integrate them seamlessly into your calendar is critical.
+The Outlook calendar allows you to create Microsoft Teams meetings directly without having to open the app itself. When creating or receiving invitations to Teams meetings, you can add them directly to your calendar. A VT student will find themselves attending numerous meetings throughout their academic career. Students may have to join or create meetings with other students for projects, advisor meetings, job interviews, and so on. Therefore, knowing how to integrate them seamlessly into your calendar is critical.
 
 #### Creating Meetings From Calendar
 
@@ -355,7 +379,7 @@ The Outlook calendar allows you to create Microsoft Teams meetings directly with
 ![Screenshot of the Teams meeting calendar event menu for the reciever where it shows information such as a join button and who invited you](https://hackmd.io/_uploads/BkcYuoCRgx.png)
 
 ## Outcomes
-Now, you understand how to optimize your Outlook. We covered features in both the email and calendar parts of Outlook. You will notice how these tips directly improve Outlook by keeping you events organized, inbox hygenic, and emails professional: the essentials for any VT student.
+Now, you understand how to optimize your Outlook. We covered features in both the email and calendar parts of Outlook. You will notice how these tips directly improve Outlook by keeping your events organized, your inbox hygenic, and your emails professional: the essentials for any VT student.
 
 ## See also
 For more Outlook training by Microsoft, visit their [Outlook training webpage](https://support.microsoft.com/en-us/office/outlook-training-8a5b816d-9052-4190-a5eb-494512343cca "Outlook training by Microsoft Support")
